@@ -20,14 +20,15 @@ As 6 horas da tarde do dia **23 de março de 2030**, os 3 a bordo do foguete **W
 ## Apertou o botão
 Ao apertar o botao, a porta atras de vocês começa a se abrir, e de repente vocês começam a escutar muita gente falando, muitas vozes(é como uma plateia insurdessedora), tem uma luz aparentemente artificial está apontada diretamente para voçes, deixando a visão de vozes um pouco comprometida, ainda conseguem enxergar, mas nao conseguem ver detalhes.
 
-![Luzes_Porta](E:\Users\David\Documents\My Games\RPG_Astronautas\Luzes_porta.png)![enter image description here](https://drive.google.com/open?id=1bNJLKyJCemQoOj2rq00jhsPm03LcBi54)
+<img src="https://github.com/mekpower/RPGAstronaut/tree/master/img/Luzes_porta.png" width="200">
+
 
 ## Olhar pela porta
 
 Quando voçe(s) olham, olha para o lado e nota que tem uma multidão, como se fosse torcida de futibol, mas voçe nao consegue ver ninguem por causa dos holofotes, é um lugar totalmente fechado, com um tapete vermelho no chao que se estende a muito distante. Voçe consegue ver uma espécie de espelho no fundo, do lado do espelho, tem como se fosse uma caixa de metal do lado direito e no lado esquerdo uma porta de metal.
 
-![foguete_vira](E:\Users\David\Documents\My Games\RPG_Astronautas\FOGUETE_vira.png)
-![plateia_sem_luzes](E:\Users\David\Documents\My Games\RPG_Astronautas\Plateia_SEM_luzes.png)
+<img src="https://github.com/mekpower/RPGAstronaut/tree/master/img/FOGUETE_vira.png" width="200">
+<img src="https://github.com/mekpower/RPGAstronaut/tree/master/img/Plateia_SEM_luzes.png" width="200">
 
 ## Sair do foguete
 
@@ -37,16 +38,17 @@ A porta do foguete fecha com tudo de forma muito rápida, fazendo um barulho mui
 
 Olhando pro espelho, vcs percebem que bem fraquinho, tem várias vezes umas palavras escritas em certos lugares do espelho.
 
-![Espelho](E:\Users\David\Documents\My Games\RPG_Astronautas\Espelho.png)
+<img src="https://github.com/mekpower/RPGAstronaut/tree/master/img/Espelho.png" width="200">
 
 ## Caixa de metal
 
 O que se parecia uma caixa de metal, se mostra um terminal, com monitor e um teclado.
 
-![Terminal](E:\Users\David\Documents\My Games\RPG_Astronautas\Terminal.png)
+<img src="https://github.com/mekpower/RPGAstronaut/tree/master/img/Terminal.png" width="200">
 
 ## Olhar pela porta
 
+<img src="https://github.com/mekpower/RPGAstronaut/tree/master/img/Porta_visao.png" width="200">
 ![Porta_visao](E:\Users\David\Documents\My Games\RPG_Astronautas\Porta_visao.png)
 
 # Fase 2
@@ -58,64 +60,6 @@ Voces reconhecem essa cena, que seus pais aviam contado sobre um filme, chamado 
 ## Dentro do Delorian
 
 No painel há um local para botar data e hora para onde deseja ir, só que diferente de seu original, este nao consegue se locomover pelo espaço onde se encontra, o que o faz viajar no tempo, é um mistério.
-
-## Save a file
-
-You can save any file of the workspace to **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Save on**. Even if a file in the workspace is already synced, you can save it to another location. StackEdit can sync one file with multiple locations and accounts.
-
-## Synchronize a file
-
-Once your file is linked to a synchronized location, StackEdit will periodically synchronize it by downloading/uploading any modification. A merge will be performed if necessary and conflicts will be resolved.
-
-If you just have modified your file and you want to force syncing, click the **Synchronize now** button in the navigation bar.
-
-> **Note:** The **Synchronize now** button is disabled if you have no file to synchronize.
-
-## Manage file synchronization
-
-Since one file can be synced with multiple locations, you can list and manage synchronized locations by clicking **File synchronization** in the **Synchronize** sub-menu. This allows you to list and remove synchronized locations that are linked to your file.
-
-
-# Publication
-
-Publishing in StackEdit makes it simple for you to publish online your files. Once you're happy with a file, you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **WordPress** and **Zendesk**. With [Handlebars templates](http://handlebarsjs.com/), you have full control over what you export.
-
-> Before starting to publish, you must link an account in the **Publish** sub-menu.
-
-## Publish a File
-
-You can publish your file by opening the **Publish** sub-menu and by clicking **Publish to**. For some locations, you can choose between the following formats:
-
-- Markdown: publish the Markdown text on a website that can interpret it (**GitHub** for instance),
-- HTML: publish the file converted to HTML via a Handlebars template (on a blog for example).
-
-## Update a publication
-
-After publishing, StackEdit keeps your file linked to that publication which makes it easy for you to re-publish it. Once you have modified your file and you want to update your publication, click on the **Publish now** button in the navigation bar.
-
-> **Note:** The **Publish now** button is disabled if your file has not been published yet.
-
-## Manage file publication
-
-Since one file can be published to multiple locations, you can list and manage publish locations by clicking **File publication** in the **Publish** sub-menu. This allows you to list and remove publication locations that are linked to your file.
-
-
-# Markdown extensions
-
-StackEdit extends the standard Markdown syntax by adding extra **Markdown extensions**, providing you with some nice features.
-
-> **ProTip:** You can disable any **Markdown extension** in the **File properties** dialog.
-
-
-## SmartyPants
-
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
-
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
 
 ## KaTeX
