@@ -20,7 +20,7 @@ Sobre os **Alberts**:
 |------------|--------------|
 |DIGITAR QUALQUER COISA |  ERRO |
 | TENTAR HACKEAR | você tenta hackear o terminal, mas percebe que ele utiliza uma linguagem que você nunca tinha visto antes de programação. |
-|TRABALHO EM EQUIPE |![Terminal_ trabalho-em-equipe](https://github.com/mekpower/RPGAstronaut/blob/master/img/Terminal_%20trabalho-em-equipe.png) <img src="https://github.com/mekpower/RPGAstronaut/blob/master/img/Terminal_%20trabalho-em-equipe.png" width="48">|
+|TRABALHO EM EQUIPE | <img src="https://github.com/mekpower/RPGAstronaut/blob/master/img/Terminal_%20trabalho-em-equipe.png" width="200">|
 | F.    | ![Terminal_ Fdot](https://github.com/mekpower/RPGAstronaut/blob/master/img/Terminal_%20Fdot.png) Voz fala, **"Vocês já viram o mundo de forma espelhada?"**|
 | F.I.M. | ![Terminal_ Fdot](https://github.com/mekpower/RPGAstronaut/blob/master/img/Terminal_%20Fdot.png) voz no terminal fala **"VOCÊS REALMENTE ACREDITAM NELE?" "mostrem para ele"** |
 |Albert | ![Terminal_albert](https://github.com/mekpower/RPGAstronaut/blob/master/img/Terminal_albert.png) voz no terminal fala **"Iniciais são bonitas não acham? Consigo ver em todas as palavras"** |
