@@ -116,5 +116,5 @@ direito: <img src="https://github.com/mekpower/RPGAstronaut/blob/master/img/Alss
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjI5NjkyMDhdfQ==
+eyJoaXN0b3J5IjpbMTYxNzU4MDA2OSwtMTE2Mjk2OTIwOF19
 -->
