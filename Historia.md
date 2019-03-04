@@ -38,7 +38,7 @@ A porta do foguete fecha com tudo de forma muito rápida, fazendo um barulho mui
 
 Olhando pro espelho, vcs percebem que bem fraquinho, tem várias vezes umas palavras escritas em certos lugares do espelho.
 
-<img src="https://github.com/mekpower/RPGAstronaut/blob/master/img/Espelho.png" width="200">
+<img src="https://github.com/mekpower/RPGAstronaut/blob/master/img/Espelho.jpg" width="200">
 
 ## Caixa de metal
 
