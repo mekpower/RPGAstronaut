@@ -1,0 +1,120 @@
+# RPG: Astronautas - AÇÕES
+
+## Ler calendário
+A data constada em tal é **23 de dezembro de 2030**.
+
+## Olhar a platéia
+
+Quando apaga os holofotes, olham pra platei notam que todos tem corpos diferentes(corpos humanos), mas TODAS tem o rosto do Albert Einstain. 
+
+Sobre os **Alberts**:
+- Tem um Albert segurando um cartas marrom.
+- Nao tem nada escrito no cartas marrom, é só um cartas marrom.
+- Estão como se estivessem torcendo.
+- seguem com os olhos. 
+
+> Não estão com capacete
+> Foguete antes da decolagem nao tinha o F nem o ponto(.)
+
+| Terminal 1 | conseguencia |
+|------------|--------------|
+|DIGITAR QUALQUER COISA |  ERRO |
+| TENTAR HACKEAR | você tenta hackear o terminal, mas percebe que ele utiliza uma linguagem que você nunca tinha visto antes de programação. |
+|TRABALHO EM EQUIPE | ![Terminal_ trabalho-em-equipe](E:\Users\David\Documents\My Games\RPG_Astronautas\Terminal_ trabalho-em-equipe.png) |
+| F.    | ![Terminal_ Fdot](E:\Users\David\Documents\My Games\RPG_Astronautas\Terminal_ Fdot.png) Voz fala, **"Vocês já viram o mundo de forma espelhada?"**|
+| F.I.M. | ![Terminal_ Fdot](E:\Users\David\Documents\My Games\RPG_Astronautas\Terminal_ Fdot.png) voz no terminal fala **"VOCÊS REALMENTE ACREDITAM NELE?" "mostrem para ele"** |
+|Albert | ![Terminal_albert](E:\Users\David\Documents\My Games\RPG_Astronautas\Terminal_albert.png) voz no terminal fala **"Iniciais são bonitas não acham? Consigo ver em todas as palavras"** |
+| NAN | ![Terminal_NAN](E:\Users\David\Documents\My Games\RPG_Astronautas\Terminal_NAN.png) |
+| Doctor Brown | O terminal apaga, voces escutam um barunho e a porta abre. |
+
+## Ir na ponta do foguete
+Você ao tocar a ponta do foguete, espera sentir um metal tão denso que consegue sentir até seu peso, mas você percebe que tem uma textura de colchão.
+
+## Puxar
+Ao tentar tirar ela desmorona e começa a cair em cima de você. No lugar da placa, tem um lugar, lembrando um quartinho, que está em estado deplorável, muito suja, onde contem uma escrita que lembra a vocês o "F", que está escrito um "i".
+
+![I_quarto](E:\Users\David\Documents\My Games\RPG_Astronautas\I_quarto.png)
+
+## Achar bilhete
+
+![bilhete_quarto](E:\Users\David\Documents\My Games\RPG_Astronautas\bilhete_quarto.png)
+
+# Fase 2
+
+## Olhar porta
+
+A porta atras de vocês fecham com tudo, e vocês percebem que ela nao é cartoonizada, ela é uma porta normal, parecendo até serem mundos distintos.
+
+## Abrir o carro
+
+Ao abrir a porta, vocês percebem que o seu interior, igual a porta, não é cartoonizado.
+![Delorian_dentro](E:\Users\David\Documents\My Games\RPG_Astronautas\Delorian_dentro.png)
+
+Em cima do banco do motorista, há um bilhete.
+![bilhete_delorian](E:\Users\David\Documents\My Games\RPG_Astronautas\bilhete_delorian.png)
+
+## Ir no terminal
+
+O Terminal se mostra totalmente vazio.
+![TerminalF2](E:\Users\David\Documents\My Games\RPG_Astronautas\TerminalF2.png)
+
+## Entrar os 3 no Delorian
+Vocês lembram que o Delorian nao possui banco de tras, então alguem terá que sentar no colo do outro.
+
+Delorian | Conseguencia |
+|--------|--------------|
+|00:00:00 | Começa a ouvir um barulho insurdessedor durante uns 2 seguntos, para o barulho e começa um barulho de fumaça do lado de fora. Ainda é o mesmo. **Averiguar**= vocês notam que a fumaça está saindo da parte de tras do carro, provavelmente deliberado por uma viagem no tempo. Terminal começa a piscar, e está escrito "Portas sempre fechadas". |
+|23/04/30 | Terminal piscando. ![TerminalF2_23-marco-30](E:\Users\David\Documents\My Games\RPG_Astronautas\TerminalF2_23-marco-30.png) |
+|23/12/30 | Tudo normal |
+|03/02/32 | os carros tinham escrito algo. ![Carro_03-02-32](E:\Users\David\Documents\My Games\RPG_Astronautas\Carro_03-02-32.png) |
+|08/02/32 | Terminal piscando muito forte. ![TerminalF2_08-02-32](E:\Users\David\Documents\My Games\RPG_Astronautas\TerminalF2_08-02-32.png) |
+|08/02/32 DNV| Terminal piscando muito forte. ![TerminalF2_08-02-32_V2](E:\Users\David\Documents\My Games\RPG_Astronautas\TerminalF2_08-02-32_V2.png) |
+|08/03/2030 | Quando vocês saem do carro, notam que tudo ao seu redor mudou. ![fase2_08-03-30](E:\Users\David\Documents\My Games\RPG_Astronautas\fase2_08-03-30.png) **Filme: proxima parada, Kened Space Center**. terminal começa a piscar muito ![TerminalF2_08-03-30](E:\Users\David\Documents\My Games\RPG_Astronautas\TerminalF2_08-03-30.png) |
+|03/03/2030 | Terminal está piscando denovo. ![TerminalF2_03-03-30](E:\Users\David\Documents\My Games\RPG_Astronautas\TerminalF2_03-03-30.png)Terminal fala **"existem datas binárias? 01 é tão legal, eu sou todo feito de 0s e 1s"** |    
+|01/01/1010 | Quando saem do carro percebem que a placa do cinema voltou e que aparece isso no terminal. **"siglas de filme..."** ![TerminalF2_01-01-1010](E:\Users\David\Documents\My Games\RPG_Astronautas\TerminalF2_01-01-1010.png) | 
+|11/11/1111| A porta da primeira fase está aberta, e vocês voltam a escutar todos os alberts gritando dnv.Por um momento eles ficam em silencio, e todos fazem o sinal de numero 1 |
+|31/12/0001 | Ao sair do carro vocês notam, que atras de um dos carros tem: ![carro_31-01-0001](E:\Users\David\Documents\My Games\RPG_Astronautas\carro_31-01-0001.png) |
+
+## Ir apenas 1 ou 2 pessoas
+Para os que estão dentro, tudo ocorre da mesma maneira anterior, para o de fora, nada ocorre.
+
+## Pessoa DE Fora ABRIR A PORTA
+não tem ninguem lá dentro.
+
+## Escrever KSC
+![TerminalF2_KSC](E:\Users\David\Documents\My Games\RPG_Astronautas\TerminalF2_KSC.png)
+
+## Olhar para cima
+
+Quando vocês olham para cima, vocês veem isso.
+![Olhar_para_cima](E:\Users\David\Documents\My Games\RPG_Astronautas\Olhar_para_cima.png)
+
+## Olhar para cima com Binoculo
+Terminal está piscando escrito "D.E."
+![Olhar_com_binoculo](E:\Users\David\Documents\My Games\RPG_Astronautas\Olhar_com_binoculo.png)
+
+## Todos tentam ir no delorian para 31/12/0001
+terminal **"VOCÊS VAO REALMENTE ACREDITAR NELE?"**, terminal fazendo piiiiiiiiiii
+"vocês tem 20 segundos para decidir".
+
+## Abrir alssapao
+
+tem uma escada
+
+## Descer
+Ao descerem, vocês notam que a escada subiu, um vulto(em forma muito como de um humano) passando por cima e o alssapão fechou.
+
+![Alssapao](E:\Users\David\Documents\My Games\RPG_Astronautas\Alssapao.png)
+
+## Olhar o Lugar
+
+Do lado esquerdo: ![Alssapao_esquerdo](E:\Users\David\Documents\My Games\RPG_Astronautas\Alssapao_esquerdo.png)
+direito: ![Alssapao_direito](E:\Users\David\Documents\My Games\RPG_Astronautas\Alssapao_direito.png)    
+
+> Buraco tem o tamanho perfeito para a faca entrar e descer.
+> luz apaga, e todos os ainstaisn falam "nao creditem nele" durante 2 segundos
+
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTExNjI5NjkyMDhdfQ==
+-->
