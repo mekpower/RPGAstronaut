@@ -49,7 +49,6 @@ O que se parecia uma caixa de metal, se mostra um terminal, com monitor e um tec
 ## Olhar pela porta
 
 <img src="https://github.com/mekpower/RPGAstronaut/tree/master/img/Porta_visao.png" width="200">
-![Porta_visao](E:\Users\David\Documents\My Games\RPG_Astronautas\Porta_visao.png)
 
 # Fase 2
 
