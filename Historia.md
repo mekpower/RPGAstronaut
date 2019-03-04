@@ -20,15 +20,15 @@ As 6 horas da tarde do dia **23 de março de 2030**, os 3 a bordo do foguete **W
 ## Apertou o botão
 Ao apertar o botao, a porta atras de vocês começa a se abrir, e de repente vocês começam a escutar muita gente falando, muitas vozes(é como uma plateia insurdessedora), tem uma luz aparentemente artificial está apontada diretamente para voçes, deixando a visão de vozes um pouco comprometida, ainda conseguem enxergar, mas nao conseguem ver detalhes.
 
-<img src="https://github.com/mekpower/RPGAstronaut/tree/master/img/Luzes_porta.png" width="200">
+<img src="https://github.com/mekpower/RPGAstronaut/blob/master/img/Luzes_porta.png" width="200">
 
 
 ## Olhar pela porta
 
 Quando voçe(s) olham, olha para o lado e nota que tem uma multidão, como se fosse torcida de futibol, mas voçe nao consegue ver ninguem por causa dos holofotes, é um lugar totalmente fechado, com um tapete vermelho no chao que se estende a muito distante. Voçe consegue ver uma espécie de espelho no fundo, do lado do espelho, tem como se fosse uma caixa de metal do lado direito e no lado esquerdo uma porta de metal.
 
-<img src="https://github.com/mekpower/RPGAstronaut/tree/master/img/FOGUETE_vira.png" width="200">
-<img src="https://github.com/mekpower/RPGAstronaut/tree/master/img/Plateia_SEM_luzes.png" width="200">
+<img src="https://github.com/mekpower/RPGAstronaut/blob/master/img/FOGUETE_vira.png" width="200">
+<img src="https://github.com/mekpower/RPGAstronaut/blob/master/img/Plateia_SEM_luzes.png" width="200">
 
 ## Sair do foguete
 
@@ -38,17 +38,17 @@ A porta do foguete fecha com tudo de forma muito rápida, fazendo um barulho mui
 
 Olhando pro espelho, vcs percebem que bem fraquinho, tem várias vezes umas palavras escritas em certos lugares do espelho.
 
-<img src="https://github.com/mekpower/RPGAstronaut/tree/master/img/Espelho.png" width="200">
+<img src="https://github.com/mekpower/RPGAstronaut/blob/master/img/Espelho.png" width="200">
 
 ## Caixa de metal
 
 O que se parecia uma caixa de metal, se mostra um terminal, com monitor e um teclado.
 
-<img src="https://github.com/mekpower/RPGAstronaut/tree/master/img/Terminal.png" width="200">
+<img src="https://github.com/mekpower/RPGAstronaut/blob/master/img/Terminal.png" width="200">
 
 ## Olhar pela porta
 
-<img src="https://github.com/mekpower/RPGAstronaut/tree/master/img/Porta_visao.png" width="200">
+<img src="https://github.com/mekpower/RPGAstronaut/blob/master/img/Porta_visao.png" width="200">
 
 # Fase 2
 
