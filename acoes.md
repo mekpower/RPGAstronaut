@@ -21,7 +21,7 @@ Sobre os **Alberts**:
 |DIGITAR QUALQUER COISA |  ERRO |
 | TENTAR HACKEAR | você tenta hackear o terminal, mas percebe que ele utiliza uma linguagem que você nunca tinha visto antes de programação. |
 |TRABALHO EM EQUIPE | ![Terminal_ trabalho-em-equipe](E:\Users\David\Documents\My Games\RPG_Astronautas\Terminal_ trabalho-em-equipe.png) |
-| F.    | ![Terminal_ Fdot](https://github.com/mekpower/RPGAstronaut/blob/master/img/Terminal_ Fdot.png) Voz fala, **"Vocês já viram o mundo de forma espelhada?"**|
+| F.    | ![Terminal_ Fdot](https://github.com/mekpower/RPGAstronaut/blob/master/img/Terminal_%20Fdot.png) Voz fala, **"Vocês já viram o mundo de forma espelhada?"**|
 | F.I.M. | ![Terminal_ Fdot](E:\Users\David\Documents\My Games\RPG_Astronautas\Terminal_ Fdot.png) voz no terminal fala **"VOCÊS REALMENTE ACREDITAM NELE?" "mostrem para ele"** |
 |Albert | ![Terminal_albert](E:\Users\David\Documents\My Games\RPG_Astronautas\Terminal_albert.png) voz no terminal fala **"Iniciais são bonitas não acham? Consigo ver em todas as palavras"** |
 | NAN | ![Terminal_NAN](E:\Users\David\Documents\My Games\RPG_Astronautas\Terminal_NAN.png) |
