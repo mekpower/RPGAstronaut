@@ -23,7 +23,7 @@ Sobre os **Alberts**:
 |TRABALHO EM EQUIPE | <img src="img/Terminal_%20trabalho-em-equipe.png" width="200">|
 | F.    |<img src="img/Terminal_%20Fdot.png" width="200"> Voz fala, **"Vocês já viram o mundo de forma espelhada?"**|
 | F.I.M. |<img src="img/Terminal_%20Fdot.png" width="200"> voz no terminal fala **"VOCÊS REALMENTE ACREDITAM NELE?" "mostrem para ele"** |
-|Albert |<img src="img/Terminal_albert.png" width="200"> voz no terminal fala **"Iniciais são bonitas não acham? Consigo ver em todas as palavras"** |
+|Albert |<img src="img/Termnal_albert.png" width="200"> voz no terminal fala **"Iniciais são bonitas não acham? Consigo ver em todas as palavras"** |
 | NAN |<img src="img/Terminal_NAN.png" width="200"> |
 | Doctor Brown | O terminal apaga, voces escutam um barunho e a porta abre. |
 
@@ -33,7 +33,7 @@ Você ao tocar a ponta do foguete, espera sentir um metal tão denso que consegu
 ## Puxar
 Ao tentar tirar ela desmorona e começa a cair em cima de você. No lugar da placa, tem um lugar, lembrando um quartinho, que está em estado deplorável, muito suja, onde contem uma escrita que lembra a vocês o "F", que está escrito um "i".
 
-<img src="img/I_quarto.png" width="200">
+<img src="img/I_quarto.jpg" width="200">
 
 ## Achar bilhete
 
