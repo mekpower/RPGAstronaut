@@ -104,6 +104,6 @@ Apaga todas as luzes, fica tudo escuro, quando Felipe acorda, voce nota que est�
 Voces começão a ouvir um barunho atras de vocês, quando vocês olham é um terminal, que está escrito "Apenas uma chance, esse é o certo, continuem" e logo apos ela some. Podem digitar:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI3NDE2NDE1LC0yODMyNzA4MTEsLTcwMD
-I2Mzc2XX0=
+eyJoaXN0b3J5IjpbMTA4MjE3MDQsLTI4MzI3MDgxMSwtNzAwMj
+YzNzZdfQ==
 -->
