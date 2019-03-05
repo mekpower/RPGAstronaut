@@ -37,10 +37,10 @@ Quando voçe(s) olham, olha para o lado e nota que tem uma multidão, como se fo
 A porta do foguete fecha com tudo de forma muito rápida, fazendo um barulho muito alto, o foguete se vira e os holofotes apagam, está tudo visível, agora conseguem enxergar os detalhes do local.
 
 <div class="cincopa_responsive_iframe" style="padding:56.25% 0 0 0;position:relative;"><div class="cincopa_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="cincopa_responsive_iframe" style="padding:56.25% 0 0 0;position:relative;"><div class="cincopa_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe width="100%" height="100%" src="//www.cincopa.com/media-platform/iframe.aspx?fid=AgOAwc-LEFad" frameborder="0" allowfullscreen scrolling="no"></iframe><noscript><span>New Gallery 2019/3/5</span><span>gritos_1</span></noscript></div></div></div></div>
-
-<iframe width="600" height="430" src="//www.cincopa.com/media-platform/iframe.aspx?fid=AEFALSr3trK4!AcCD1Dzm8Q7o" frameborder="0" allowfullscreen scrolling="no" allow="autoplay; fullscreen"></iframe>
-
-<iframe width="600" height="430" src="//www.cincopa.com/media-platform/iframe.aspx?fid=AEFALSr3trK4!AILDzADq8E6q" frameborder="0" allowfullscreen scrolling="no" allow="autoplay; fullscreen"></iframe>
+  
+  <div class="cincopa_responsive_iframe" style="padding:56.25% 0 0 0;position:relative;"><div class="cincopa_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="cincopa_responsive_iframe" style="padding:56.25% 0 0 0;position:relative;"><div class="cincopa_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe width="100%" height="100%" src="//www.cincopa.com/media-platform/iframe.aspx?fid=AEFALSr3trK4!AcCD1Dzm8Q7o" frameborder="0" allowfullscreen scrolling="no"></iframe><noscript><span>New Gallery 2019/3/5</span><span>gritos_1</span></noscript></div></div></div></div>
+    
+ <div class="cincopa_responsive_iframe" style="padding:56.25% 0 0 0;position:relative;"><div class="cincopa_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="cincopa_responsive_iframe" style="padding:56.25% 0 0 0;position:relative;"><div class="cincopa_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe width="100%" height="100%" src="//www.cincopa.com/media-platform/iframe.aspx?fid=AEFALSr3trK4!AILDzADq8E6q" frameborder="0" allowfullscreen scrolling="no"></iframe><noscript><span>New Gallery 2019/3/5</span><span>gritos_1</span></noscript></div></div></div></div>       
 
 ## Chegando no espelho
 
