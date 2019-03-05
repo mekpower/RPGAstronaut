@@ -1,6 +1,3 @@
-<script src="mermaid.min.js"></script>
-<script>mermaid.initialize({startOnLoad:true});</script>
-
 # RPG: Astronautas!
 
 >Entregar aos jogadores:
