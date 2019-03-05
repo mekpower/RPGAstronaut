@@ -1,6 +1,7 @@
 # RPG Astronaut
 
 Esse é um RPG de enigma. Não há necessidade de ter dados, criar personagens e nada do tipo, apenas seguir descobrindo as coisas.
+Acesse a [página inicial](https://mekpower.github.io/RPGAstronaut/) caso esteje no repositório GitHub.
 
 ## Páginas
 - História: [Link](Historia.md)
