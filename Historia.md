@@ -20,7 +20,7 @@ As 6 horas da tarde do dia **23 de março de 2030**, os 3 a bordo do foguete **W
 ## Apertou o botão
 Ao apertar o botao, a porta atras de vocês começa a se abrir, e de repente vocês começam a escutar muita gente falando, muitas vozes(é como uma plateia insurdessedora), tem uma luz aparentemente artificial está apontada diretamente para voçes, deixando a visão de vozes um pouco comprometida, ainda conseguem enxergar, mas nao conseguem ver detalhes.
 
-<img src="https://github.com/mekpower/RPGAstronaut/blob/master/img/Luzes_porta.png" alt="Luzes_porta" width="200">
+<img src="img/Luzes_porta.png" alt="Luzes_porta" width="200">
 
 
 ## Olhar pela porta
