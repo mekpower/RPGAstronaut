@@ -27,7 +27,7 @@ Ao apertar o botao, a porta atras de vocês começa a se abrir, e de repente voc
 
 Quando voçe(s) olham, olha para o lado e nota que tem uma multidão, como se fosse torcida de futibol, mas voçe nao consegue ver ninguem por causa dos holofotes, é um lugar totalmente fechado, com um tapete vermelho no chao que se estende a muito distante. Voçe consegue ver uma espécie de espelho no fundo, do lado do espelho, tem como se fosse uma caixa de metal do lado direito e no lado esquerdo uma porta de metal.
 
-<img src="https://github.com/mekpower/RPGAstronaut/blob/master/img/FOGUETE_vira.png" alt="FOGUETE_vira" width="200">
+<img src="img/FOGUETE_vira.png" alt="FOGUETE_vira" width="200">
 <img src="https://github.com/mekpower/RPGAstronaut/blob/master/img/Plateia_SEM_luzes.png" alt="Plateia_SEM_luzes" width="200">
 
 ## Sair do foguete
