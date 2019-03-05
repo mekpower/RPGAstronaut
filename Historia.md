@@ -28,7 +28,7 @@ Ao apertar o botao, a porta atras de vocês começa a se abrir, e de repente voc
 Quando voçe(s) olham, olha para o lado e nota que tem uma multidão, como se fosse torcida de futibol, mas voçe nao consegue ver ninguem por causa dos holofotes, é um lugar totalmente fechado, com um tapete vermelho no chao que se estende a muito distante. Voçe consegue ver uma espécie de espelho no fundo, do lado do espelho, tem como se fosse uma caixa de metal do lado direito e no lado esquerdo uma porta de metal.
 
 <img src="img/FOGUETE_vira.png" alt="FOGUETE_vira" width="200">
-<img src="https://github.com/mekpower/RPGAstronaut/blob/master/img/Plateia_SEM_luzes.png" alt="Plateia_SEM_luzes" width="200">
+<img src="img/Plateia_SEM_luzes.png" alt="Plateia_SEM_luzes" width="200">
 
 ## Sair do foguete
 
@@ -38,17 +38,17 @@ A porta do foguete fecha com tudo de forma muito rápida, fazendo um barulho mui
 
 Olhando pro espelho, vcs percebem que bem fraquinho, tem várias vezes umas palavras escritas em certos lugares do espelho.
 
-<img src="https://github.com/mekpower/RPGAstronaut/blob/master/img/Espelho.jpg" alt="Espelho" width="200">
+<img src="img/Espelho.jpg" alt="Espelho" width="200">
 
 ## Caixa de metal
 
 O que se parecia uma caixa de metal, se mostra um terminal, com monitor e um teclado.
 
-<img src="https://github.com/mekpower/RPGAstronaut/blob/master/img/Terminal.png" alt="Terminal" width="200">
+<img src="img/Terminal.png" alt="Terminal" width="200">
 
 ## Olhar pela porta
 
-<img src="https://github.com/mekpower/RPGAstronaut/blob/master/img/Porta_visao.png" alt="Porta_visao" width="200">
+<img src="img/Porta_visao.png" alt="Porta_visao" width="200">
 
 # Fase 2
 
