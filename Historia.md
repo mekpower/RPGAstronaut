@@ -10,7 +10,7 @@ No ano de **2030**, é lançada a primeira missão tripulada para marte. Os afor
 
 | Personagens| Qualidades | História | Item especial
 |----------|------------ |-------| ------|
-|Felipe | Pissicólogo engenheiro de software e de sistemas do instituto de aeronalticas e espaço Brasileiro | Por ser pissicologo sempre teve calma e paciencia para analizar todos a sua volta, mas nao apenas seres humanos, como tbm maquinas. | ATENCAO, PALAVRAS BR
+|Felipe | Psicólogo engenheiro de software e de sistemas do instituto de aeronalticas e espaço Brasileiro | Por ser pissicologo sempre teve calma e paciencia para analizar todos a sua volta, mas nao apenas seres humanos, como tbm maquinas. | ATENCAO, PALAVRAS BR
 |Rafael | medico agronomo e biologo alemão | um apaixonado pela vida, isso deu para ele a força necessaria para estudar quase tudo sobre qualquer tipo de vida terrestre. | PALAVRAS ALEMAO
 |Gabriel | Médico e mecânico espacial russo | Um renomado medico na russia, mas nao deixou sua paixao pela medicina impedilo de conquista, o que pra si é o premio máximo que é ser o melhor e mais completo mecânico espacial da russia.	| PALAVRAS RUSSAS
 
